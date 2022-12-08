@@ -131,9 +131,8 @@ dmypy.json
 # virtual env
 /sen-env
 
-artifact/*
+artifact
 
-sensor/configuration/*
+sensor/configuration/
 saved_models
-logs
 
